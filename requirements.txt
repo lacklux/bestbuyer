@@ -1,0 +1,4 @@
+selenium==3.141.0
+undetected-chromedriver==3.0.1
+urllib3==1.26.4
+webdriver-manager==3.4.2
